@@ -149,7 +149,7 @@ p {
   margin: 20px 10px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   #title {
     text-align: center;
   }
